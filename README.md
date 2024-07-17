@@ -46,3 +46,8 @@ opkg install *
 reboot
 ```
 After rebooting, a new Services -> Xray tab will appear in the OpenWRT ui-panel with the ability to configure the connection.
+
+## Used materials
+[luci-app-xray](https://github.com/yichya/luci-app-xray)
+
+
