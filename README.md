@@ -13,8 +13,9 @@ git clone https://github.com/tim06/openwrt-xray.git
 ```
 
 ## Installing the prepared OpenWRT firmware 
+### Flash image
 
-// screenshot
+![firmware](firmware.jpg)
 
 ## Copying materials to the router
 
